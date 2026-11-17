@@ -3,8 +3,12 @@
   "name": "ug.championsport/sports-news",
   "title": "ChampionSport.ug",
   "description": "Ugandan sports news, Uganda Premier League table, clubs, fixtures and results. Read-only.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "websiteUrl": "https://championsport.ug",
+  "repository": {
+    "url": "https://github.com/jansmolka99-arch/championsport-ug-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://championsport.ug/logo-512.png",
