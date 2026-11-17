@@ -1,0 +1,7 @@
+# Nikdy do veřejného repa: klíče, tokeny, prostředí
+.env*
+*.pem
+*.key
+*secret*
+*token*
+node_modules/

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ug.championsport/sports-news",
+  "title": "ChampionSport.ug",
+  "description": "Ugandan sports news, Uganda Premier League table, clubs, fixtures and results. Read-only.",
+  "version": "1.2.0",
+  "websiteUrl": "https://championsport.ug",
+  "icons": [
+    {
+      "src": "https://championsport.ug/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://championsport.ug/api/mcp"
+    }
+  ]
+}
