@@ -1,5 +1,7 @@
 # ChampionSport.ug MCP server
 
+[![ChampionSport.ug MCP server](https://mcprush.com/badge/championsport-ug-mcp/card.svg)](https://mcprush.com/to/championsport-ug-mcp?ref=badge)
+
 Read-only [Model Context Protocol](https://modelcontextprotocol.io) server for
 [ChampionSport.ug](https://championsport.ug), a sports news site based in Kampala, Uganda.
 
